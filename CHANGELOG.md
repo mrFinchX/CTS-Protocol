@@ -30,7 +30,6 @@ Each entry follows this structure:
 ### [YEAR-MM] — [Month Name] [Year]
 - **Amount:** [disclosed or "1% of net income — undisclosed"]
 - **Cause:** [organization or campaign name]
-- **Type:** [food bank / disaster relief / medical / etc.]
 - **Proof:** [link to public post with #CTS]
 - **Note:** [optional — one honest sentence]
 ```
@@ -40,24 +39,28 @@ Each entry follows this structure:
 ## Log
 
 ---
+## 2026-02 — February 2026
+
+- **Amount:** [ 2% - (3x €20) ]
+- **Cause:** [foundation siepomaga.pl]
+- **Proof:** [https://x.com/mr_Finch_X/status/2024560965631508960]
+- **Note:** ["Given before this ledger existed. Counts. The behavior came before the record."]
 
 ### 2026-03 — March 2026
 
 *Ledger opened. First entry.*  
 *This is where it starts.*
 
-- **Amount:** [to be logged after first donation]
-- **Cause:** [to be logged]
-- **Type:** [to be logged]
-- **Proof:** [link to X post with #CTS]
-- **Note:** Entry #1. Because someone has to be first.
+- **Amount:** [ 2% - (3x €20) ]
+- **Cause:** [foundation siepomaga.pl]
+- **Proof:** [https://x.com/mr_Finch_X/status/2033467800090472907]
+- **Note:** ["User #1 joined ImpactJar"]
 
 ---
 
-<!-- Future entries added monthly above this line -->
-<!-- Format: ### YYYY-MM — Month Year -->
-<!-- Never delete entries. Never edit amounts retroactively. -->
-<!-- This ledger is permanent. -->
+> Future entries added monthly above this line.
+> Never delete. Never edit retroactively.
+> This ledger is permanent.
 
 ---
 
@@ -65,10 +68,10 @@ Each entry follows this structure:
 
 | Metric | Value |
 |--------|-------|
-| Months active | 1 |
-| Total entries | 0 (first pending) |
-| Causes supported | 0 (first pending) |
-| Consecutive months | 0 |
+| Months active | 2 |
+| Total entries | 2 |
+| Causes supported | 6 |
+| Consecutive months | 2 |
 
 *Updated monthly alongside new entries.*
 
