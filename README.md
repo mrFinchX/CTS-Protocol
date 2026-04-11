@@ -50,6 +50,8 @@ Because visible behavior, repeated at scale, changes norms.
 
 This repo is the public record of that standard.
 
+If you are not an influencer. Don't worry. You can join too. 
+That action encourage others. It works both ways.
 ## Files
 
 README.md        — this file
@@ -72,6 +74,8 @@ No badge.
 No token.
 
 Fork it. Run your own version.
+Find your own CTS meaning.
+My "CTS Acronym Universe" have around 40 deep meaning at the moment.
 The protocol belongs to everyone.
 
 ## User #1 
@@ -95,7 +99,7 @@ ImpactJar: [impactjar.club](https://impactjar.club)
 1. Make a donation to any legitimate cause
 2. Post proof: screenshot + date + `#CTS @yourname`
 3. Log it on [impactjar.club](https://impactjar.club)
-4. No log in - added as anonymous.
+4. You didn't log it in 7 days? - added as anonymous.
    
 That's it.
 
