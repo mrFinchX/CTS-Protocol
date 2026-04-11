@@ -65,6 +65,8 @@ EA Funds:           [date]
 The Life You Can Save: [date]
 ```
 
+"HONESTLY, not done yet"
+
 ---
 
 ### TIER 2 — STANDARD VERIFICATION
@@ -108,8 +110,8 @@ Organization responds to contact within 30 days.
 ```
 
 **Review time:** 5–7 days  
-**Reviewer:** mr_Finch_X (manual until #5,000 entries)  
-**After #5,000:** Community panel of 3 verified members + mr_Finch_X
+**Reviewer:** user mr_Finch_X (manual until #5,000 entries)  
+**After #5,000:** Community panel of 3 verified members + user mr_Finch_X
 
 ---
 
@@ -154,7 +156,7 @@ Every organization in the directory is checked annually.
 **Outcomes:**
 ```
 All checks pass:
-→ "Verified [year]" badge updates
+→ "Verified [year]" status updates
 → Remains in active pool
 
 One or more checks fail:
@@ -239,7 +241,7 @@ Why you think it qualifies:
 Link to annual report or financial info:
 ```
 
-Suggestions reviewed within 14 days.
+Suggestions reviewed within 28 days.
 All suggestions logged publicly — approved and rejected.
 
 ---
@@ -278,6 +280,10 @@ Version 1.0 — March 2026
   Tier 1 sources defined.
   Annual review cycle established.
   mr_Finch_X as sole reviewer until #5,000 entries.
+```
+```
+Version 1.0.1 - April 2026
+  Adjusted details and added more realistic timeframe. 
 ```
 
 *Future changes versioned here with date and reason.*
