@@ -57,9 +57,9 @@ None of these belong here.
 The single most important number ImpactJar produces.
 
 ```
-Total joined: [n]
-Still here: [n]
-Retention: [%]
+Total joined: [x]
+Still here: [y]
+Retention: [y/x • 100%]
 ```
 
 This is the signal that travels.  
@@ -137,6 +137,8 @@ imperfectly but honestly.
 And honest imperfection  
 beats precise misdirection  
 every time.
+
+One step at the time. Atleast.
 
 ---
 
