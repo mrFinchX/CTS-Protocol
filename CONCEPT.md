@@ -18,6 +18,10 @@ They make the extractors look like the leaders.
 The result: a system that promotes  
 the loudest voices, not the most trustworthy ones.
 
+Systems that only extract —
+eventually collapse. Systems that redistribute — survive.
+
+
 ---
 
 ## What ImpactJar Measures Instead
@@ -74,17 +78,17 @@ Different story. Same list. Neither better. Both permanent.
 Every member gets a number.  
 It's a timestamp, not a rank.
 
-#5648 and #345 are equal.  
-Both showed up. Both kept going.
+#5648, #33785 and #345 are equal.  
+All three showed up. All three kept going.
 
 When someone leaves —  
 their spot retires. It doesn't get recycled.
 
 The record shows:
 ```
-Total joined: [n]
-Still here: [n]
-Retention: [%]
+Total joined: [x]
+Still here: [y]
+Retention: [(y/x) • 100%]
 ```
 
 That retention rate is the signal that travels.  
@@ -94,7 +98,7 @@ Not the headcount.
 
 ## The Rhythm Rule
 
-A CTS action must be recurring, not one-time.
+A CTS action should be recurring, not one-time.
 
 ImpactJar tracks the rhythm:  
 each logged donation must fall within ±5 days  
@@ -104,9 +108,16 @@ A donation on the 28th
 when you always give on the 15th  
 tells a different story than the date suggests.
 
-The window doesn't open for you because you want it to.  
-It opens because you were already there  
-before you knew you'd need it.
+"The window opens when you don’t expect it 
+because you didn’t think it was there."
+
+Let me say it like this:
+
+"The window doesn't open for you 
+because you want it to."
+
+"It opens because you were already there  
+before you knew you'd need it."
 
 ---
 
@@ -200,7 +211,7 @@ Query: does this entity have a give-back history?
 → ImpactJar API returns:
   {
     "entries": 847,
-    "retention_rate": 0.97,
+    "retention_rate": 0.97(or 97%),
     "consecutive_months": 14,
     "verified": true,
     "chain_verified": false,  // true when on-chain implemented
