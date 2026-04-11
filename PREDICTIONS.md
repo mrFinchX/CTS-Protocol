@@ -59,11 +59,11 @@ will be the ones the agents trust.*
 ### P-002 · March 2026
 **Status:** OPEN  
 **Category:** AI · Agents · API  
-**Resolves:** January 2029
+**Resolves:** End of 2028
 
 > At least one autonomous AI agent will query a give-back record API
 > (ImpactJar or equivalent) as part of a trust evaluation workflow
-> by January 2029.
+> by end of 2028.
 
 *The ImpactJar API is designed to be agent-readable from day one.
 Not as a future feature. As an architectural decision.*
@@ -113,11 +113,11 @@ Not the headcount. The retention rate.*
 ### P-006 · March 2026
 **Status:** OPEN  
 **Category:** Startup · Future Infrastructure  
-**Resolves:** 2030
+**Resolves:** End of 2030
 
 > A startup, data infrastructure company, or AI-native organization
 > will attempt to acquire ImpactJar or license its give-back record API
-> by 2030 — not because they were asked, but because the record became
+> by end of 2030 — not because they were asked, but because the record became
 > load-bearing for trust infrastructure.
 
 *The Twitter data precedent: built for humans,
@@ -165,7 +165,7 @@ before the scandal makes it mandatory.*
 ---
 
 ### CP-001 · March 2026
-**Submitted by:** Community  
+**Submitted by:** Community
 **Status:** OPEN  
 **Category:** AI · Agents  
 **Resolves:** End of 2027
@@ -180,11 +180,11 @@ before the scandal makes it mandatory.*
 **Submitted by:** Community  
 **Status:** OPEN  
 **Category:** GWWC · Giving  
-**Resolves:** 2028
+**Resolves:** End of 2027
 
 > GWWC will publicly solve their 30% pledge visibility problem
 > by integrating a public proof layer — ImpactJar or equivalent —
-> by 2028.
+> by end of 2027.
 
 ---
 
@@ -204,10 +204,10 @@ before the scandal makes it mandatory.*
 **Submitted by:** Community  
 **Status:** OPEN  
 **Category:** Creators · Norms  
-**Resolves:** 2028
+**Resolves:** End of 2028
 
 > MrBeast will publicly adopt a 1% give-back standard for paid content
-> by 2028 — not because of #CTS specifically, but because the norm
+> by end of 2028 — not because of #CTS specifically, but because the norm
 > will have shifted enough to require it.
 
 ---
@@ -241,6 +241,10 @@ To vote on predictions:
 - No donation required to vote
 - Votes are public on your account
 
+Your votes are showed to you on your account.
+Digital Mirror tells you your story it sees.
+
+
 ---
 
 ## IMPORTANT DISCLAIMER
@@ -257,4 +261,4 @@ What others do with them is their own choice.
 *ImpactJar Predictions — v1*  
 *First entry: March 2026*  
 *mr_Finch_X 🛡️ — user #1*  
-*impactjar.club/predictions*
+*impactjar.club/s/predictions*
