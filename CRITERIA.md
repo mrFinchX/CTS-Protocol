@@ -175,14 +175,14 @@ Start. Keep going.
 
 ## The Standard mr_Finch_X Holds
 
-1% of net income. Monthly. Logged here publicly.  
-20% of direct subscription revenue. On-chain. Always.
+2% of net income. Monthly. Logged here publicly.  
+
 
 This CRITERIA document applies to me first.  
 Before anyone else.
 
 ---
 
-*Last updated: March 2026*  
+*Last updated: April 2026*  
 *#CTS | give-back, visible, verifiable*  
 *— mr_Finch_X 🛡️*
