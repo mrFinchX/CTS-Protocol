@@ -16,11 +16,11 @@ Someone doesn't have the required badge.
 All eyes turn.
 
 A parent stood with their back to us.
-Turned around — two badges visible.
-Adult and child.
+Turned around — two humans visible now.
+Adult and a child.
 Child without a badge.
 
-"We'll teach him."
+"We'll make it for him."
 
 Everyone looked away.
 Talked. Lived. Continued.
@@ -213,8 +213,7 @@ survive.
 
 ## The Standard I Hold Myself To
 
-1% of my net income. Monthly. Publicly. With proof.  
-20% from direct subscription revenue. On-chain. Always.
+2% of my net income. Monthly. Publicly. With proof.  
 
 Not because the system requires it.  
 Because I built the system.  
