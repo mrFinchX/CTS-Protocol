@@ -56,6 +56,17 @@ Each entry follows this structure:
 - **Proof:** [https://x.com/mr_Finch_X/status/2033467800090472907]
 - **Note:** ["User #1 joined ImpactJar"]
 
+### 2026-04 — APRIL 2026
+
+- **Amount:** [ LAMSORED ]
+- **Cause:** [LAMAISMAD.SHOP]
+- **Proof:** [LAMALAMALAMA]
+- **Note:** ["WE NEVER SPEAK ABOUT IT"]
+- **Event:** [Mr Finch’s 10 Million Suitcase 🦙 has been created.]
+- **Status:** {SEALED}
+- **Access:** LAMA🦙
+
+
 ---
 
 > Future entries added monthly above this line.
