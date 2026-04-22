@@ -66,6 +66,15 @@ Each entry follows this structure:
 - **Status:** {SEALED}
 - **Access:** LAMA🦙
 
+### 2026-04 — APRIL 2026
+
+- **Amount:** [ 2% - (3x €20) ]
+- **Cause:** [foundation siepomaga.pl]
+- **Proof:** [https://x.com/mr_finch_x/status/2045960542532047311?s=46&t=UtBOkw1WrTzdMdGdITLB6w]
+-          ** [siepomaga.pl/wplata/3ySgnVyQ]
+-          ** [siepomaga.pl/wplata/2NSdeLWR]
+-          ** [siepomaga.pl/wplata/MASJoB03]
+- **Note:** ["added direct links in case of deleted/blocked/unavailable post on social platforms"]
 
 ---
 
@@ -79,10 +88,10 @@ Each entry follows this structure:
 
 | Metric | Value |
 |--------|-------|
-| Months active | 2 |
-| Total entries | 2 |
-| Causes supported | 6 |
-| Consecutive months | 2 |
+| Months active | 3 |
+| Total entries | 4 |
+| Causes supported | 9 |
+| Consecutive months | 3 |
 
 *Updated monthly alongside new entries.*
 
